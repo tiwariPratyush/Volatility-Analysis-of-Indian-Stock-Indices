@@ -46,7 +46,7 @@ scikit-learn>=1.0.0
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/indian-stock-volatility-prediction.git
+   git clone https://github.com/tiwariPratyush/indian-stock-volatility-prediction.git
    cd indian-stock-volatility-prediction
    ```
 
